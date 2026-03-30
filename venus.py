@@ -1,7 +1,2 @@
-nome=input("Digite seu nome: ")
-idade=int(input("digite sua idade: "))
+print("Operações:1(soma), 2(subtração), 3(multiplicação), 4(divisão), 5(potenciação), 6(raiz quadrada)")
 
-if idade>=18:
-    print(nome," é maior de idade.")
-else:
-    print(nome," é menor de idade.")
